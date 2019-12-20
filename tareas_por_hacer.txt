@@ -1,0 +1,5 @@
+ 
+1° obtener los datos de todas las paginas
+2° modular el codigo (separarlos del index)
+3° hacer los test
+ 

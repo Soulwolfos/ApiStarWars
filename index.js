@@ -4,7 +4,7 @@ const redis = require('redis');
 const getNaves = require('./getNaves');
 
 const client = redis.createClient(); //6379, '127.0.0.1' valores por defecto
-//client.set('Rodrigo', 'asdqwe', redis.print);
+
 
 
 const app = express();
